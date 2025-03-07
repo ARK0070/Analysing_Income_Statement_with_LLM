@@ -21,6 +21,7 @@ unstructured[all-docs]>=0.4.0
 lxml>=4.6.0
 Pillow>=8.0.0
 PyMuPDF>=1.18.0
+opencv-python>=4.5.0  # ✅ Added OpenCV
 
 # Development Tools
 ipython>=8.0.0
